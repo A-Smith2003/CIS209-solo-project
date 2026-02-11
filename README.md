@@ -10,7 +10,7 @@ Founded in 2012, Elephant Bookstore is a beloved independent bookstore located i
 ![Wireframe](https://github.com/A-Smith2003/CIS209-solo-project/blob/main/ElephantBookStoreWireFrame.png?raw=true)
 
 ## System Requirements
-- [X] Implement all pictures provided by business
+- [ ] Implement all pictures provided by business
 - [ ] Ensure that aesthetic follows estabilished brand image
 - [ ] Implement "tatteredReadsLibrariansChoicebanner.jpg" as a "Librarian's Choice" sections
 
