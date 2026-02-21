@@ -15,3 +15,7 @@ Founded in 2012, Elephant Bookstore is a beloved independent bookstore located i
 - [ ] Implement "tatteredReadsLibrariansChoicebanner.jpg" as a "Librarian's Choice" sections
 
 ## Technical Requirements
+- [ ] Html
+- [ ] Javascript
+- [ ] css
+- [ ] Hosted on Github pages
