@@ -1,0 +1,43 @@
+.logo {
+  width: 140px;
+  height: 70px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 10px;
+  background-color: #0d1228;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+}
+
+input {
+  padding: 5px;
+  border: none;
+  border-radius: 4px;
+  width: 200px;
+}
+
+button {
+  padding: 5px 10px;
+  border-radius: 10px;
+  font-size: 15px;
+  background-color: #0d1228;
+}
+
+.search-icon {
+  width: 10px;
+  height: auto;
+}
+
+.nav-links {
+  display: flex;
+  /* Adjust this value to get the exact "spread" you want */
+  gap: 100px;
+}
