@@ -17,12 +17,59 @@ a {
   font-family: "Times New Roman", Times, serif;
 }
 
+.nav-links {
+  display: flex; /* Aligns the links in a row */
+  gap: 50px; /* Adds equal space between each link */
+  list-style: none; /* Removes bullet points if you used a <ul> */
+  margin: 0 auto; /* Optional: This pushes the links to the center of the nav */
+}
+
 input {
   padding: 5px;
   border: none;
   border-radius: 4px;
   width: 200px;
+  vertical-align: middle; /* Add this */
 }
+
+.search-icon {
+  width: 20px; /* Note: Your screenshot shows 20px, check for typos! */
+  height: 19px;
+  margin-left: 5px;
+  margin-right: 10px;
+  cursor: pointer;
+  vertical-align: middle; /* Add this */
+}
+
+.submit {
+  padding: 5px 5px;
+  background-color: #0d1228;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+header {
+  background-image: url("../imgs/blueBookBanner.png");
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.browse {
+  padding: 10px 20px;
+  background-color: #ffffff;
+  color: #0d1228;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
 .browse:hover {
   background-color: #b5b5b5;
   color: #080b19;
