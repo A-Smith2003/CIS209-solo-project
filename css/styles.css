@@ -23,24 +23,6 @@ input {
   border-radius: 4px;
   width: 200px;
 }
-
-.submit {
-  padding: 5px 10px;
-  border-radius: 10px;
-  font-size: 15px;
-  background-color: #0d1228;
-}
-
-.search-icon {
-  width: 10px;
-  height: auto;
-}
-
-.nav-links {
-  display: flex;
-  /* Adjust this value to get the exact "spread" you want */
-  gap: 100px;
-}
 .browse:hover {
   background-color: #b5b5b5;
   color: #080b19;
